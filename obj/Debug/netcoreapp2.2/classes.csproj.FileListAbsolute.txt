@@ -1,0 +1,11 @@
+/home/renato/repos/classes/bin/Debug/netcoreapp2.2/classes.deps.json
+/home/renato/repos/classes/bin/Debug/netcoreapp2.2/classes.runtimeconfig.json
+/home/renato/repos/classes/bin/Debug/netcoreapp2.2/classes.runtimeconfig.dev.json
+/home/renato/repos/classes/bin/Debug/netcoreapp2.2/classes.dll
+/home/renato/repos/classes/bin/Debug/netcoreapp2.2/classes.pdb
+/home/renato/repos/classes/obj/Debug/netcoreapp2.2/classes.csprojAssemblyReference.cache
+/home/renato/repos/classes/obj/Debug/netcoreapp2.2/classes.csproj.CoreCompileInputs.cache
+/home/renato/repos/classes/obj/Debug/netcoreapp2.2/classes.AssemblyInfoInputs.cache
+/home/renato/repos/classes/obj/Debug/netcoreapp2.2/classes.AssemblyInfo.cs
+/home/renato/repos/classes/obj/Debug/netcoreapp2.2/classes.dll
+/home/renato/repos/classes/obj/Debug/netcoreapp2.2/classes.pdb
